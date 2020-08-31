@@ -44,6 +44,5 @@ for (let i = 1; i <= 25; i++) {
 };
 
 for (let i = 0; i < numbers.length; i++) {
-    console.log(numbers[i] / 2)
-    
+    console.log(numbers[i] / 2);
 }
